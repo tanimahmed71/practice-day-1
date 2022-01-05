@@ -1,3 +1,40 @@
 h1{
-    color: purple;
+    color: black;
+}
+.section-1{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+       
+}
+.header-text-color{
+    color: orange;
+}
+p{
+    font-size: large;
+}
+.sec-dev-1{
+    width: 40%;
+    padding-right: 70px;
+}
+.display-photo-addjust{
+   width: 100%;
+}
+.sec-dev-2{
+    width: 50%;
+    padding-left: 70px;
+}
+.google-font{
+    font-family: 'Asap', sans-serif;
+font-family: 'Noticia Text', serif;
+font-family: 'Slabo 27px', serif;
+font-size: 50px;
+}
+
+.display-side-side{
+    display: flex;
+}
+.my-linkin-design{
+ background-color: orange;
+ 
 }
